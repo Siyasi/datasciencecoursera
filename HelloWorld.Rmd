@@ -1,0 +1,19 @@
+---
+title: "HelloWorld.md"
+author: "Siyasi"
+date: "17/12/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## This is a R Markdown File
+
+This is an R Markdown File
+
+```{r cars}
+summary(cars)
+```
+
